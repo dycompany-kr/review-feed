@@ -6,6 +6,7 @@
    pinned  : 맨 앞에 더 고정할 글 번호(앞에 쓴 것이 먼저). 원본 고정 순서는 이미 묶음 파일에 들어 있습니다.
    hidden  : 숨길 글 번호. 숨긴 글은 화면과 평균·평점 비율에서 빠지고, 리뷰 건수에는 그대로 셉니다(#101766).
    minPoint: 이 별점 이상만 보입니다. 0 = 원본처럼 모든 별점을 보입니다.
+   remote  : 후기 파일 공개 보관소(GitHub Pages). 손님 화면은 여기서 먼저 읽고, 3초 안에 못 받으면 이 스킨 안 파일을 씁니다(#102103).
    stats   : 상품 카드의 별점 줄(실제 숫자만). 비우면 카드에 별점 줄을 안 보입니다. */
 window.CG_REVIEW = {
   "source": "snapshot",
@@ -45,5 +46,6 @@ window.CG_REVIEW = {
       "cnt": 1793
     }
   },
-  "updated": "2026-11-19"
+  "updated": "2026-11-19",
+  "remote": "https://dycompany-kr.github.io/review-feed/dnjfdjr1ghrl/"
 };
