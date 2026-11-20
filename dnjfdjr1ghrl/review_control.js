@@ -19,6 +19,7 @@ window.CG_REVIEW = {
     }
   ],
   "pinned": [
+    2842,
     2825,
     2809,
     2800,
@@ -39,13 +40,13 @@ window.CG_REVIEW = {
   "stats": {
     "11": {
       "avg": 4.86,
-      "cnt": 1793
+      "cnt": 1794
     },
     "18": {
       "avg": 4.86,
-      "cnt": 1793
+      "cnt": 1794
     }
   },
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "remote": "https://dycompany-kr.github.io/review-feed/dnjfdjr1ghrl/"
 };
